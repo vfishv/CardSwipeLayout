@@ -1,6 +1,6 @@
 package me.yuqirong.cardswipelayout;
 
-import android.support.v7.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
 
 /**
  * @author yuqirong
